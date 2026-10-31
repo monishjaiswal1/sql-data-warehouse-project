@@ -61,10 +61,10 @@ data-warehouse-project/
 ├── datasets/                         # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                             # Project documentation and architecture details
-│   ├── etl.drawio                    # Draw.io file shows all different techniques and methods of ETL
-│   ├── data_architecture.drawio      # Draw.io file shows the project's architecture
+│   ├── etl.png                       # Draw.io file shows all different techniques and methods of ETL
+│   ├── data_architecture.png         # Draw.io file shows the project's architecture
 │   ├── data_catalog.md               # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio              # Draw.io file for the data flow diagram
+│   ├── data_flow.png                 # Draw.io file for the data flow diagram
 │   ├── data_models.drawio            # Draw.io file for data models (star schema)
 │   └── naming-conventions.md         # Consistent naming guidelines for tables, columns, and files
 │
@@ -86,4 +86,11 @@ data-warehouse-project/
 This project is licenced under the (MIT License)(LICENSE). You are free to use, Modify, and share This project with proper attribution
 
 ## About Me
-Hi there I'm **Monish Jaiswal** . I'm an Business Analyst.
+Hi there I'm **Monish Jaiswal**, passionate about working with data and uncovering meaningful insights.
+
+- Skilled in SQL, Excel, Power BI, and Python.
+- Interested in Business Analysis, Data Analytics, and Business Intelligence.
+- Exploring Data Warehousing, ETL, and business process improvement.
+- Building hands-on projects to strengthen my analytical and problem-solving skills.
+
+LinkedIn: [Monish Jaiswal](https://www.linkedin.com/in/monishjaiswal/)
